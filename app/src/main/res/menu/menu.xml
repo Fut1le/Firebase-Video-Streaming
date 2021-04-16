@@ -3,21 +3,9 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/aboutItem"
-        android:icon="@android:drawable/ic_dialog_info"
-        android:title="About" />
-    <item
-        android:id="@+id/feedbackItem"
-        android:icon="@android:drawable/stat_notify_chat"
-        android:title="Feedback" />
-    <item
         android:id="@+id/uploadmovieItem"
         android:icon="@android:drawable/stat_notify_chat"
         android:title="Upload Movies" />
-    <item
-        android:id="@+id/logoutItem"
-        android:icon="@android:drawable/ic_lock_power_off"
-        android:title="Logout" />
     <item
         android:id="@+id/closeItem"
         android:title="Close" />
@@ -26,9 +14,4 @@
         app:showAsAction="always"
         android:title="Search"
         app:actionViewClass="androidx.appcompat.widget.SearchView" />
-
-    <item android:id="@+id/settings_item"
-        android:icon="@android:drawable/ic_menu_search"
-        android:title="item"
-        />
 </menu>
