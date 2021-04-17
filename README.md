@@ -14,7 +14,7 @@ Android application for streaming video in real time using Firebase.
 ## Features
 - You can upload video to storage
 - You can watch your vodeo from storage
-- - You can watch your video in fullscreen mode
+- You can watch your video in fullscreen mode
 - You can easily modify the program code
 
 ## Screenshots
