@@ -13,9 +13,9 @@ Android application for streaming video in real time using Firebase.
 
 ## Screenshots
 <div style="dispaly:flex">
-    <img src="https://github.com/Fut1le/Firebase-Music-Streaming/blob/main/1.jpg" width="32%">
-    <img src="https://github.com/Fut1le/Firebase-Music-Streaming/blob/main/2.jpg" width="32%">
-    <img src="https://github.com/Fut1le/Firebase-Music-Streaming/blob/main/3.jpg" width="32%">
+    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/1.jpg" width="32%">
+    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/2.jpg" width="32%">
+    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/3.jpg" width="32%">
 </div>
 
 ## Features
