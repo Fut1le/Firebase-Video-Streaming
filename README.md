@@ -11,19 +11,19 @@
 
 Android application for streaming video in real time using Firebase.
 
-## Screenshots
-<div style="dispaly:flex">
-    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/1.jpg" width="32%">
-    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/2.jpg" width="32%">
-    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/3.jpg" width="32%">
-</div>
-
 ## Features
 - You can upload video to storage
 - You can listen your vodeo from storage
 - You can easily modify the program code
 - Availability of notifications
 - Track covers
+
+## Screenshots
+<div style="dispaly:flex">
+    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/1.jpg" width="32%">
+    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/2.jpg" width="32%">
+    <img src="https://github.com/Fut1le/Firebase-Video-Streaming/blob/main/3.jpg" width="32%">
+</div>
 
 ## How to setup my app
 1. Clone this repo
