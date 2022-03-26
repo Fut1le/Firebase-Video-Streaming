@@ -2,10 +2,16 @@
 
 [github]:           https://github.com/Fut1le/Firebase-Music-Streaming
 [platform-badge]:   https://img.shields.io/badge/Platform-Android-F3745F.svg
-[minsdk-badge]:     https://img.shields.io/badge/minSdkVersion-16-F3745F.svg
+[stars]:            https://img.shields.io/github/stars/Fut1le/Keenotes?style=social
+[vls-badge]:        https://img.shields.io/badge/VL-Powered%20by%20VL-blueviolet
+[follow]:           https://img.shields.io/github/followers/Fut1le?style=social
+[code-size]:        https://img.shields.io/tokei/lines/github/Fut1le/Keenotes
 
 [![platform-badge]][github]
-[![minsdk-badge]][github]
+[![vls-badge]][github]
+[![code-size]][github]
+[![follow]][github]
+[![stars]][github]
 
 <!------------------------------------------------------------------------->
 
