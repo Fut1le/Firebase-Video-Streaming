@@ -5,11 +5,9 @@
 [stars]:            https://img.shields.io/github/stars/Fut1le/Keenotes?style=social
 [vls-badge]:        https://img.shields.io/badge/VL-Powered%20by%20VL-blueviolet
 [follow]:           https://img.shields.io/github/followers/Fut1le?style=social
-[code-size]:        https://img.shields.io/tokei/lines/github/Fut1le/Keenotes
 
 [![platform-badge]][github]
 [![vls-badge]][github]
-[![code-size]][github]
 [![follow]][github]
 [![stars]][github]
 
