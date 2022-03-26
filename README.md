@@ -2,7 +2,7 @@
 
 [github]:           https://github.com/Fut1le/Firebase-Music-Streaming
 [platform-badge]:   https://img.shields.io/badge/Platform-Android-F3745F.svg
-[stars]:            https://img.shields.io/github/stars/Fut1le/Keenotes?style=social
+[stars]:            https://img.shields.io/github/stars/Fut1le/Firebase-Video-Streaming?style=social
 [vls-badge]:        https://img.shields.io/badge/VL-Powered%20by%20VL-blueviolet
 [follow]:           https://img.shields.io/github/followers/Fut1le?style=social
 
